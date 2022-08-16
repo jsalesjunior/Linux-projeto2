@@ -1,5 +1,6 @@
-﻿## Linux-projeto2-IaC
+﻿# Linux-projeto2-IaC
 
+### Atualização do Servidor
 ### Instalação do Apche2
 ### Instalação do Unzip
-### Baixar e instalar uma aplicação Web
+### Baixar, descompactar e instalar uma aplicação Web
